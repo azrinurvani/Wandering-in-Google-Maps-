@@ -1,0 +1,2 @@
+rootProject.name='Wandering Google Maps'
+include ':app'
